@@ -1,0 +1,109 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "name": "John Doe",
+            "city": "Houston",
+            "job": "S Developer",
+            "salary": "2300 $"
+        },
+        {
+            "id": 2,
+            "name": "James Frost",
+            "city": "Texas",
+            "job": "J Developer",
+            "salary": "2060 $"
+        },
+        {
+            "id": 3,
+            "name": "Jammie Dornan",
+            "city": "Las Vegas",
+            "job": "Designer",
+            "salary": "2050 $"
+        },
+        {
+            "id": 4,
+            "name": "Doctor Touchstone",
+            "city": "Ohio",
+            "job": "Tester",
+            "salary": "2400 $"
+        },
+        {
+            "id": 5,
+            "name": "A K Gladstone",
+            "city": "NYC",
+            "job": "Business Analyst",
+            "salary": "6200 $"
+        },
+        {
+            "id": 6,
+            "name": "Hugo Williams",
+            "city": "Los Angeles",
+            "job": "Manager",
+            "salary": "3200 $"
+        },
+        {
+            "id": 7,
+            "name": "Christina Helmsworth",
+            "city": "Minisota",
+            "job": "Deputy Manager",
+            "salary": "8200 $"
+        },
+        {
+            "id": 8,
+            "name": "Natasha Sparks",
+            "city": "Queens Maryland",
+            "job": "Sales Head",
+            "salary": "7200 $"
+        },
+        {
+            "id": 9,
+            "name": "John Wick",
+            "city": "Boston",
+            "job": "Python Developer",
+            "salary": "5200 $"
+        },
+        {
+            "id": 10,
+            "name": "Doctor Strange",
+            "city": "Budhapest",
+            "job": "JS Developer",
+            "salary": "2070 $"
+        },
+        {
+            "id": 11,
+            "name": "Harry Williams",
+            "city": "London",
+            "job": "S Designer",
+            "salary": "2700 $"
+        },
+        {
+            "id": 12,
+            "name": "Tom Harris",
+            "city": "Moscow",
+            "job": "J Designer",
+            "salary": "2800 $"
+        },
+        {
+            "id": 13,
+            "name": "Katina Woods",
+            "city": "New Delhi",
+            "job": "S Tester",
+            "salary": "7200 $"
+        },
+        {
+            "id": 14,
+            "name": "Amber Johnson",
+            "city": "Mumbai",
+            "job": "J Tester",
+            "salary": "5200 $"
+        },
+        {
+            "id": 15,
+            "name": "Henry S Sparks",
+            "city": "Ropar",
+            "job": "Business Head",
+            "salary": "1200 $"
+        }
+    ]
+}
