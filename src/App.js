@@ -1,5 +1,4 @@
 import React from 'react';
-import './App.css';
 import { HashRouter as Router, Route, Switch } from 'react-router-dom';
 import { createBrowserHistory } from 'history';
 import clientsComponent from './Components/clientsComponent';
